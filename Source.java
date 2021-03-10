@@ -10,6 +10,7 @@ random.add(10f);
 random.add(99.9f);
 
 System.out.println(random.contains(5.0f));
+System.out.println(random.get(3));
    }
 
 }
